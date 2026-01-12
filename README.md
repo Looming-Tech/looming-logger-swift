@@ -6,8 +6,8 @@ A remote logging SDK for iOS applications that sends logs to a self-hosted Loki 
 
 | Platform | Repository |
 |----------|------------|
-| Flutter | [looming-logger](https://github.com/Looming-Tech/looming-logger-flutter) |
-| Swift (iOS) | [looming-logger-swift](https://github.com/Looming-Tech/looming-logger-flutter-swift) |
+| Flutter | [looming-logger-flutter](https://github.com/Looming-Tech/looming-logger-flutter) |
+| Swift (iOS) | [looming-logger-swift](https://github.com/Looming-Tech/looming-logger-swift) |
 
 ## Features
 
