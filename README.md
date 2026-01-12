@@ -2,6 +2,13 @@
 
 A remote logging SDK for iOS applications that sends logs to a self-hosted Loki backend with automatic batching, offline persistence, and comprehensive device information collection.
 
+## Related SDKs
+
+| Platform | Repository |
+|----------|------------|
+| Flutter | [looming-logger](https://github.com/Looming-Tech/looming-logger) |
+| Swift (iOS) | [looming-logger-swift](https://github.com/stefanminch/looming-logger-swift) |
+
 ## Features
 
 - Automatic device information collection (platform, OS version, model, etc.)
@@ -25,7 +32,7 @@ Add the following to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/your-org/looming-logger-swift.git", from: "1.0.0")
+    .package(url: "https://github.com/stefanminch/looming-logger-swift.git", from: "1.0.0")
 ]
 ```
 
